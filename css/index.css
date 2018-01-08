@@ -1,0 +1,106 @@
+body {
+    
+    margin-top: 60px;
+    
+}
+
+.jumbotron {
+
+    margin-bottom: 0px;
+    
+}
+
+#jum-sec1 {
+    
+    background-image: url('../img/wallpaper1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    
+}
+
+#jum-sec2 {
+    
+    background-image: url('../img/wallpaper2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    
+}
+
+#jum-sec3 {
+    
+    background-image: url('../img/wallpaper3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    
+}
+
+#end-sec {
+    
+    color: white;
+    background-color: black;
+    
+}
+
+#end-sec table>tbody>tr>td {
+    
+    border: none;
+    
+}
+
+#end-sec table>thead>tr>th {
+    
+    border: none;
+    font-weight: bold;
+    font-size: 130%;
+    
+}
+
+#end-sec a {
+    
+    color: white;
+    font-size: 140%;
+    font-family: 'Harmattan', sans-serif;
+}
+
+
+.navbar {
+    
+    font-size: 120%;
+    font-family: 'Harmattan', sans-serif;
+    
+}
+
+#webname {
+    
+    font-size: 180%;
+    font-family: 'Orbitron', sans-serif;   
+    
+}
+
+.jumbotron p, .jumbotron a, .card a{
+    
+    font-family: 'Cuprum', sans-serif;
+
+}
+
+.jumbotron h1 {
+    
+    font-family: 'Harmattan', sans-serif;
+    
+}
+
+
+.card p{
+    
+    font-family: 'Supermercado One', cursive;
+    
+}
+
+.card h4{
+    
+    font-family: 'Varela Round', sans-serif;
+    
+}
